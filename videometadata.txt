@@ -1,0 +1,39 @@
+ Metadata:
+    major_brand     : qt
+    minor_version   : 537199360
+    compatible_brands: qt
+    creation_time   : 2008-05-27T18:32:32.000000Z
+    com.apple.quicktime.player.movie.audio.gain: 1.000000
+    com.apple.quicktime.player.movie.audio.treble: 0.000000
+    com.apple.quicktime.player.movie.audio.bass: 0.000000
+    com.apple.quicktime.player.movie.audio.balance: 0.000000
+    com.apple.quicktime.player.movie.audio.pitchshift: 0.000000
+    com.apple.quicktime.player.movie.audio.mute:
+    com.apple.quicktime.player.movie.visual.brightness: 0.000000
+    com.apple.quicktime.player.movie.visual.color: 1.000000
+    com.apple.quicktime.player.movie.visual.tint: 0.000000
+    com.apple.quicktime.player.movie.visual.contrast: 1.000000
+    com.apple.quicktime.player.version: 7.4.1 (14)
+    com.apple.quicktime.version: 7.4.1 (14) 0x7418000 (Mac OS X, 10.5.2, 9C31)
+    timecode        : 00:00:00:00
+  Duration: 00:09:56.46, start: 0.000000, bitrate: 3342 kb/s
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 853x480, 2899 kb/s, 24 fps, 24 tbr, 2400 tbn, 4800 tbc (default)
+    Metadata:
+      rotate          : 0
+      creation_time   : 2008-05-27T18:32:32.000000Z
+      handler_name    : Apple Video Media Handler
+      encoder         : H.264
+    Side data:
+      displaymatrix: rotation of -0.00 degrees
+    Stream #0:1(eng): Data: none (tmcd / 0x64636D74) (default)
+    Metadata:
+      rotate          : 0
+      creation_time   : 2008-05-27T18:32:32.000000Z
+      handler_name    : Time Code Media Handler
+      timecode        : 00:00:00:00
+    Stream #0:2(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, 5.1, fltp, 437 kb/s (default)
+    Metadata:
+      rotate          : 0
+      creation_time   : 2008-05-27T18:32:32.000000Z
+      handler_name    : Apple Sound Media Handler
+At least one output file must be specified
